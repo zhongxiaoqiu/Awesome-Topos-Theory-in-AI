@@ -24,6 +24,7 @@ A curated list of research and resources exploring how Topos theory and Category
 - **[A Category Theory Approach to AI](link)** - Seminal paper establishing CT framework for neural networks
 - **Topos Foundations for Probabilistic Programming** - Applying topos theory to uncertainty modeling
 - **Sheaf Models for Knowledge Representation** - Using sheaf theory in AI systems
+- **[Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges](https://facundoq.github.io/assets/gdl/main.html)**-Understanding traditional architectures from a unified geometric framework
 
 ## AI Applications
 
